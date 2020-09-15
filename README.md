@@ -1,1 +1,1 @@
-# AMQP Sampel
+# AMQP sample
